@@ -2,7 +2,7 @@ Podes probrar que funciona con este codigo:
 
 # HTML:
 <div class="container">
-<button onclick="changeColor(this)"> HELLO WORLD! </button>
+<button onclick="changeColor(this)">  </button>
 </div>
 
 # CSS:

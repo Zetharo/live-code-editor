@@ -1,9 +1,10 @@
 Podes probrar que funciona con este codigo:
 
 # HTML:
-# <div class="container">
-# <button onclick="changeColor(this)"> HELLO WORLD! </button>
-# </div>
+ 1- Crear un div con la class="container".
+ 2- Luego dentro del div un button con el evento onclick="changeColor(this)" conteniendo el texto que nosotros queramos.
+ 3- Cerramos el div.
+ 
 
 # CSS:
 button{
